@@ -23,6 +23,7 @@ git clone https://github.com/fatima-azzahra2003/Tp1JEE.git
 2. Compiler et Exécuter :
 
 mvn clean install
+
 mvn spring-boot:run
 
 📁 Structure du Projet
