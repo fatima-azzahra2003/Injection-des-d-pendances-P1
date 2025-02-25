@@ -27,18 +27,8 @@ mvn spring-boot:run
 
 📁 Structure du Projet
 
-Tp1JEE
-├── src
-│   ├── main
-│   │   ├── java
-│   │   │   └── com
-│   │   │       └── example
-│   │   │           ├── Dao        # Couche d'accès aux données (DAO)
-│   │   │           ├── Metier    # Couche métier
-│   │   │           └── Main       # Classe principale (App.java)
-│   │   └── resources              # Fichiers de configuration (application.properties)
-├── pom.xml                        # Fichier de configuration Maven
-└── README.md                      # Documentation du projet
+![image](https://github.com/user-attachments/assets/ab139006-1bd6-49dd-af75-a9b8afc46b61)
+
 
 📝 Lancer l'application :
 
